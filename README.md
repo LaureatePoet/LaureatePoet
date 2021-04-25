@@ -1,4 +1,5 @@
 ### Hi! o(*￣▽￣*)o 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LaureatePoet.LaureatePoet)
 
 used be a Mathematics student, have learned a little MATLAB, Python and LaTeX.
 
