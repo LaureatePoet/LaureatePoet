@@ -3,8 +3,6 @@
 
 used be a Mathematics student, have learned a little MATLAB, Python and LaTeX.
 
-Good at **Goof off**.
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=laureatepoet)
 
 ![](https://github-readme-stats.vercel.app/api?username=laureatepoet&show_icons=true&theme=tokyonight)
