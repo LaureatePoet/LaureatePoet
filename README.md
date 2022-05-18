@@ -7,6 +7,9 @@ used be a Mathematics student, have learned a little MATLAB, Python and LaTeX.
 
 ![](https://github-readme-stats.vercel.app/api?username=laureatepoet&show_icons=true&theme=tokyonight)
 
+### My GitHub Contribution
+![](https://raw.githubusercontent.com/LaureatePoet/LaureatePoet/master/assets/github-contribution-grid-snake.svg)
+
 <!--
 **LaureatePoet/LaureatePoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
