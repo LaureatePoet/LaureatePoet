@@ -1,11 +1,23 @@
-### Hi! o(*￣▽￣*)o 👋
+# Hi! o(*￣▽￣*)o 👋
+
+<a href="https://github.com/LaureatePoet">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=laureatepoet&count_private=true&title_color=&show_icons=true&icon_color=3362FF&bg_color=30,D8EAF1,F0FFF7"
+  title="LaureatePoet&#039;s GitHub Stats"
+  align="right"
+  width="60%"
+/>
+</a>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LaureatePoet.LaureatePoet)
 
-used be a Mathematics student, have learned a little MATLAB, Python and LaTeX.
+Used be a Mathematics student, used to have learned a little MATLAB, Python and LaTeX.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laureatepoet)
+Now is a CyberSec student at somewhere.
 
-![](https://github-readme-stats.vercel.app/api?username=laureatepoet&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=laureatepoet&layout=compact)
+
+
 
 ### My GitHub Contribution
 ![](https://raw.githubusercontent.com/LaureatePoet/LaureatePoet/master/assets/github-contribution-grid-snake.svg)
