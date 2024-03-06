@@ -9,18 +9,17 @@
 />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LaureatePoet.LaureatePoet)
+![visitors](https://komarev.com/ghpvc/?username=laureatepoet&color=blue)
 
 Used be a Mathematics student, used to have learned a little MATLAB, Python and LaTeX.
 
 Now is a CyberSec student at somewhere.
 
+Areas of interest: Malware & Binary Analysis
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=laureatepoet&layout=compact)
 
 
-
-### My GitHub Contribution
-![](https://raw.githubusercontent.com/LaureatePoet/LaureatePoet/master/assets/github-contribution-grid-snake.svg)
 
 <!--
 **LaureatePoet/LaureatePoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
